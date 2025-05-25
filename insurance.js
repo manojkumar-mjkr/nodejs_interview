@@ -78,7 +78,7 @@ setInterval(async () => {
   }
 }, 10000); // every 10 seconds
 
-console.log(`PORT = ${process.env.PORT}`);
+console.log(`PORT = ${process.env.PORT}`);//tesing
 
 const PORT = process.env.PORT || 4000;
 
